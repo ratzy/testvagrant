@@ -29,6 +29,21 @@
             </div>
             <div id="waves-container"></div>
         </div>
+        <div class="rel-wrapper view-services-wrapper">
+            <ul class="list">
+                <li class="item">
+                    <img class="full-width-img" src="images/go-jek-service.jpg">
+                    <div class="description">
+                        <h2>GOJEK</h2>
+                        <em>A large b2c mobile app service provider</em>
+                        <p>The robust automated testing strategy which easily integrated into development and testing process helped us to handle multiple devices, operating systems, and connected mobile applications. The robust automated testing strategy which helped us easily integrate development and testing processes to handle multiple devices, operating systems, and connected mobile applications.</p>
+                    </div>
+                </li>
+
+
+            </ul>
+
+        </div>
         <?php include('php/footer.php'); ?>
 </body>
 
